@@ -1,0 +1,175 @@
+#chitietanh{
+	float:left;
+	width:240px;
+	height:340px;
+    margin:50px 10px 50px 70px;
+}
+	#chitietanh img
+	{
+		width:100%;
+		height:100%;
+	}
+#tongtieude{
+	
+	float:left;
+	margin:10px 10px;
+}
+#tieudesach{
+	height:100px;
+	width:450px;
+	font-weight:bold;
+	font-size:2em;
+	color:red;
+}
+#tacgia{
+	margin-top:20px;
+	font-size:3.6ex;
+}
+	
+#thongtinsach{
+	
+	float:left;
+	margin-top:50px;
+    margin-left:70px;
+	
+}	
+#giasach{
+	margin-top:40px;
+	font-size:2em;
+	color:#33cc33;
+	height:40px;
+}
+
+#nhapsoluong
+{
+	font-size:1.4em;
+	margin-top:30px;
+	float:left;
+}
+
+
+#nhapso{
+	font-size:1.4em;
+	margin-top:28px;
+	float:left;
+	margin-left:5px;
+}
+
+#buyandnumber{
+	margin-top:35px;
+	margin-bottom:35px;
+	margin-left:0px;
+	border-top:1px solid black;
+	
+}
+#datmua{
+	
+	margin-top:23px;
+	float:left;
+}
+#datmua button{
+	padding:10px 20px 7px 20px;
+	margin-bottom:1px;
+	margin-left:10px;
+	width:130px;
+	background-color: #ff1a1a;
+	font-size:1.4em;
+}
+#datmua button:hover{
+	background-color: #e60000;
+}
+#thongtinsp{
+
+	width:90%;
+	clear:both;
+}
+#info{
+	font-size:2em;
+	border-bottom:0.5px solid black;
+	width:850px;
+	color:#33cc33;
+	font-weight:bold;
+}
+#detail{
+	margin-top:50px;
+	text-align:justify;
+	font-size:1.5em;
+}
+
+.intro{
+	margin:10px 0;
+}
+.block{
+	margin-bottom:2em;
+}
+
+.blockcontent{
+	padding:8px 0;
+}
+
+.product-tabs-content {
+    width: 90%;
+	margin-top: 50px;
+    line-height: 25px;
+    float: left;
+    min-height: 174px;
+}
+
+.table td,th{
+	border: 1px solid #ddd;
+}
+
+.intro i {
+    color: #00cc66;
+    padding-right: 5px;
+}
+
+.spinner {
+  width: 100px;
+}
+.spinner input {
+  text-align: center;
+}
+.input-group-btn-vertical {
+  position: relative;
+  white-space: nowrap;
+  width: 1%;
+  vertical-align: middle;
+  display: table-cell;
+}
+.input-group-btn-vertical > .btn {
+  display: block;
+  float: none;
+  width: 100%;
+  max-width: 100%;
+  padding: 8px;
+  margin-left: -1px;
+  position: relative;
+  border-radius: 0;
+}
+.input-group-btn-vertical > .btn:first-child {
+  border-top-right-radius: 4px;
+}
+.input-group-btn-vertical > .btn:last-child {
+  margin-top: -2px;
+  border-bottom-right-radius: 4px;
+}
+.input-group-btn-vertical i{
+  position: absolute;
+  top: 0;
+  left: 4px;
+}
+
+.pb-cmnt-textarea {
+        resize: none;
+        padding: 20px;
+        height: 130px;
+        width: 100%;
+        border: 1px solid #F2F2F2;
+    }
+
+
+
+	
+	
+
